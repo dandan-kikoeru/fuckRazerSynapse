@@ -1,0 +1,9 @@
+# Usage
+
+1. Get the [binary file](https://) and store it somewhere.
+2. Open Task Scheduler and `Create Task`.
+3. Check `Run with highest privileges`.
+4. Create a new trigger and change begin the task to `At log on`.
+5. Set `Delay task for: x` to around 1 minute.
+6. Create a new action and set `Program/script` to the stored binary file.
+7. Under `Settings`, uncheck the `Stop the task if it runs longer than: x`.

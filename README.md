@@ -1,6 +1,6 @@
-# Usage
+# How to automatically startup the program
 
-1. Get the [binary file](https://) and store it somewhere.
+1. Get the [binary file](https://github.com/dandan-kikoeru/fuckRazerSynapse/releases/download/0.1.0/fuckRazerSynapse.exe) and store it somewhere.
 2. Open Task Scheduler and `Create Task`.
 3. Check `Run with highest privileges`.
 4. Create a new trigger and change begin the task to `At log on`.
